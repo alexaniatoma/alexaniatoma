@@ -1,5 +1,5 @@
 - 👋 Ola!!! Eu sou a Alexânia Toma
-- 👀 Estudante de Análise e Desenvolvimento de Sistemas busco oportunidades para adquirir experiências com HTML, CSS, JavaScript, Java.
+- 👀 Estudante de Análise e Desenvolvimento de Sistemas pela UNIP,  busco oportunidades para adquirir experiências com HTML, CSS, JavaScript, Java.
 
 Busco oportunidade profissional que permita o meu crescimento intelectual, profissional e técnico, assim podendo contribuir com ela por muito tempo, à medida que crescemos juntos.
 
