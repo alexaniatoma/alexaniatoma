@@ -1,5 +1,5 @@
 - 👋 Ola!!! Eu sou a Alexânia Toma
-- Estudante de Análise e Desenvolvimento de Sistemas, com formação prevista para abril de 2025, estou aprendendo a linguagem Java, programação orientada a objetos(POO), investindo em cursos online, dedicando tempo e compromentimento para construir uma carreira sólida.
+- Estudante de Análise e Desenvolvimento de Sistemas, com formação prevista para abril de 2025, estou aprendendo a linguagem Java, programação orientada a objetos(POO), investindo em cursos online, dedicando tempo e comprometimento para construir uma carreira sólida.
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaniatoma&layout=compact)
 
