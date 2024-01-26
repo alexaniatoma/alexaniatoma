@@ -1,5 +1,5 @@
 - 👋 Ola!!! Eu sou a Alexânia Toma
-- Estudante de  Análise e Desenvolvimento de Sistemas, formação prevista para abril de 2025 , com foco em Back-end , estou aprendendo a linguagem Java, programação orientada a objetos(POO), investindo em cursos online, dedicando tempo e comprometimento, busco oportunidades para adquirir experiência profissional e construir uma carreira sólida.
+- Estudante de  Análise e Desenvolvimento de Sistemas, formação prevista para abril de 2025 , com foco em Back-end , estou aprendendo a linguagem Java e C# programação orientada a objetos(POO), investindo em cursos online, dedicando tempo e comprometimento, busco oportunidades para adquirir experiência profissional e construir uma carreira sólida.
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaniatoma&layout=compact)
 
@@ -11,6 +11,8 @@
   <img align="center" alt="Alexania-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alexania-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Alexania-Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Alexania-Csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
           
  
 </div>
