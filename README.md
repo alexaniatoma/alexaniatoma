@@ -1,5 +1,5 @@
 - 👋 Ola!!! Eu sou a Alexânia Toma
-- Estudante de  Análise e Desenvolvimento de Sistemas, formação prevista para junho de 2025 , com foco em Back-end , estou aprendendo a linguagem Java e C# programação orientada a objetos(POO), investindo em cursos online, dedicando tempo e comprometimento, busco oportunidades para adquirir experiência profissional e construir uma carreira sólida.
+- Estudante de  Análise e Desenvolvimento de Sistemas, formação prevista para junho de 2025 , com foco em Back-end , estou aprendendo as linguagens Java e C#  investindo em cursos online, dedicando tempo e comprometimento, busco oportunidades para adquirir experiência profissional e construir uma carreira sólida.
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaniatoma&layout=compact)
 
